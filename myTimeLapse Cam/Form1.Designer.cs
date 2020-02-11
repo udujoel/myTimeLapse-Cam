@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(455, 425);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "My Selfie Timelapse";
             this.ResumeLayout(false);
 
         }
